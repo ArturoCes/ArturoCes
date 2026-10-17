@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://arturocespedes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-arturocespedes.netlify.app-8B5CF6?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:arturoc200212@gmail.com"><img src="https://img.shields.io/badge/Gmail-arturoc200212-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/arturoces"><img src="https://img.shields.io/badge/LinkedIn-arturoces-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
@@ -14,6 +15,7 @@
 
 - 💼 Senior Full Stack Developer at **Metrica** — enterprise apps with Angular and Spring Boot.
 - 🧪 Previously at **Virtual Desk**, **Alten** (QA automation) and **MTP**.
+- 🤖 QA (regression, manual and automated testing) and AI agent training and evaluation.
 - 🎓 Higher Technician Degree in Multi-Platform Application Development — Salesianos de San Pedro (2023).
 - 🚀 In my spare time I build and ship my own products to production.
 - 🌍 Spanish (native) · English (B2).

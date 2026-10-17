@@ -18,7 +18,8 @@
 - 🤖 QA (regression, manual and automated testing) and AI agent training and evaluation.
 - 🎓 Higher Technician Degree in Multi-Platform Application Development — Salesianos de San Pedro (2023).
 - 🚀 In my spare time I build and ship my own products to production.
-- 🌍 Spanish (native) · English (B2).
+- 🌍 Spanish (native) · English C1 ([EF SET 62/100](https://cert.efset.org/es/TS7ecX)).
+- 📜 32 courses and certifications (300+ hours): AWS, Angular, Flutter, Selenium, REST Assured… — [see all](https://arturocespedes.netlify.app/en/certifications/).
 
 ## 🛠️ Tech stack
 
